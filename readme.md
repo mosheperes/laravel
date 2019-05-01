@@ -1,4 +1,4 @@
-#### Just Create  Database Called Lsapp Dont Add Any tables it does it by itself
+ Just Create  Database Called Lsapp Dont Add Any tables it does it by itself
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
